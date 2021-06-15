@@ -1,0 +1,11 @@
+{
+	"Author": "wakui",
+	"Name": "Pixel Perfect2",
+	"InternalName": "PixelPerfect2",
+	"Description": "Adds 3rings",
+	"Tags": ["Hitbox", "Overlay", "Indicator"],
+	"RepoUrl": "https://github.com/WakuiSayaka/PP2",
+	"AssemblyVersion": "1.3.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 3
+}
