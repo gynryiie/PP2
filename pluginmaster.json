@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/WakuiSayaka/PP2/tree/main/Plugins/PixelPerfect",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/WakuiSayaka/PP2/tree/main/Plugins/PixelPerfect/latest.zip",
+        "DownloadLinkInstall": "https://github.com/WakuiSayaka/PP2/raw/main/Plugins/PixelPerfect/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/WakuiSayaka/PP2/tree/main/Plugins/PixelPerfect/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WakuiSayaka/PP2/tree/main/Plugins/PixelPerfect/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WakuiSayaka/PP2/raw/main/Plugins/PixelPerfect/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WakuiSayaka/PP2/raw/main/Plugins/PixelPerfect/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1622471814"
     }
